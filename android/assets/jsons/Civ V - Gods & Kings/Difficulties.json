@@ -230,5 +230,34 @@
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
-	}
-]
+    }
+    {
+        "name": "Gifted",
+		"baseHappiness": 40,
+		"extraHappinessPerLuxury": 2,
+		"researchCostModifier": 0.25,
+		"unitCostModifier": 0.25,
+		"unitSupplyBase": 10,
+		"unitSupplyPerCity": 6,
+		"buildingCostModifier": 0.25,
+		"policyCostModifier": 0.25,
+		"unhappinessModifier": 0.2,
+		"barbarianBonus": 1,
+		"barbarianSpawnDelay": 10,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 2,
+		"aiUnitCostModifier": 2,
+		"aiBuildingCostModifier": 2,
+		"aiWonderCostModifier": 2,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0.1,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 20,
+		"clearBarbarianCampReward": 75
+
+
